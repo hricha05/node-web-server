@@ -1,0 +1,10 @@
+{
+  "name": "zip_connection",
+  "version": "1.0.0",
+  "description": "An app to promote locally sourced food.",
+  "main": "printMessages.js",
+  "repository": "https://github.com/hricha05/node-web-server",
+  "author": "Harun JR Richards",
+  "license": "MIT",
+  "private": false
+}
