@@ -6,5 +6,8 @@
   "repository": "https://github.com/hricha05/node-web-server",
   "author": "Harun JR Richards",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "cities": "^1.1.2"
+  }
 }
