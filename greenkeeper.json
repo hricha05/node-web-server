@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "zip_connection/package.json"
+      ]
+    }
+  }
+}
